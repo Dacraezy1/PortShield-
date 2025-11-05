@@ -1,13 +1,3 @@
-```
-  _____           _   _   ____  _     _           _ _
- |  __ \         | | | | |  _ \| |   (_)         | | |
- | |__) |__  _ __| |_| |_| |_) | |__  _  ___  ___| | |
- |  ___/ _ \| '__| __| __|  _ <| '_ \| |/ _ \/ __| | |
- | |  | (_) | |  | |_| |_| |_) | | | | |  __/ (__|_|_|
- |_|   \___/|_|   \__|\__|____/|_| |_|_|\___|\___(_|_)
-
-```
-
 # PortShield
 
 PortShield is a lightweight, real-time port monitoring tool for Linux. It helps you keep an eye on open ports, alerts you to unexpected network activity, and can even take action to protect your system.
